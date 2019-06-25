@@ -1,0 +1,40 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+blockquote {
+  display: block;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  margin-left: 350px;
+  margin-right: 350px;
+}
+
+img {
+border: 5px solid white;
+border-radius: 4px;
+padding: 5px;
+width: 800px;
+}
