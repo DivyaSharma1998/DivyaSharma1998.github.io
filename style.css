@@ -17,24 +17,36 @@ h3 {
   text-align: center;
 }
 
-
+header.about-me {
+  width: 50%;
+  margin: auto;
+}
 
 p {
   font-family: verdana;
   font-size: 20px;
 }
 
-blockquote {
+section {
   display: block;
+  width: 80%;
   margin-top: 2em;
   margin-bottom: 1em;
-  margin-left: 350px;
-  margin-right: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section.parents {
+  text-align: center;
 }
 
 img {
-border: 5px solid white;
-border-radius: 4px;
-padding: 5px;
-width: 800px;
+  border: 5px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 100%;
+}
+
+img.parents {
+  width: 80%;
 }
