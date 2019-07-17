@@ -44,7 +44,7 @@ img {
   border: 5px solid white;
   border-radius: 4px;
   padding: 5px;
-  max-width: 100%;
+  max-width: 80%;
 }
 
 img.parents {
