@@ -51,6 +51,16 @@ img.parents {
   width: 30%;
 }
 
+img {
+  border: 5px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 80%;
+}
+img.sisters{
+  width: 30%;
+}
+
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
