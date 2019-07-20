@@ -1,1 +1,78 @@
+body {
+  background-color: cream;
+}
 
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  text-align: center;
+}
+
+header.about-me {
+  width: 40%;
+  margin: auto;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+section {
+  display: block;
+  width: 80%;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+section.parents {
+  text-align: center;
+}
+
+img {
+  border: 5px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 80%;
+}
+
+img.parents {
+  width: 30%;
+}
+
+img {
+  border: 5px solid white;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 80%;
+}
+img.sisters{
+  width: 25%;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
